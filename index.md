@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Blogs
+# Atenea Tutoring
 {% for post in site.posts %}
  
 <ul>
